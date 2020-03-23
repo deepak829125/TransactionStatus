@@ -1,0 +1,183 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="LraMasterPage.master.cs"
+    Inherits="LraMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>LRA On-line Tracking System</title>
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+    <link type="text/css" rel="stylesheet" href="CSS/style.css" />
+    <link rel="stylesheet" type="text/css" href="CSS/jquerycssmenu.css" />
+
+    <script type="text/javascript" src="JS/jquery.js"></script>
+
+    <script type="text/javascript" src="JS/jquerycssmenu.js"></script>
+
+    <style type="text/css">
+        .style1
+        {
+            width: 160px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="main">
+        <div id="top_menu">
+            <div id="date_today">
+                <b>Date Today :</b>
+                <asp:Label ID="lblDate" runat="server" Text=""></asp:Label>
+            </div>
+            <div id="top_menu_right">
+                <a href="http://lra.gov.ph/index.php" target="_top">Home</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://lra.gov.ph/index.php?page=faqs" target="_top">
+                    FAQs</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://lra.gov.ph/index.php?page=links" target="_top">
+                        Links</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://lra.gov.ph/index.php?page=sitemap" target="_top">
+                            Sitemap</a>
+            </div>
+            <div style="clear: both;">
+            </div>
+        </div>
+        <div id="menu">
+            <a href="/">
+                <div id="header-center">
+                    <object height="150px" width="800px">
+                        <param name="movie" value="LRA_Images/flash_header_home.swf" />
+                        <embed src="LRA_Images/flash_header_home.swf" height="150px" width="800px"></embed>
+                    </object>
+                    <!--<center><img src="images/lra_facade.jpg" border="0" width="800px" height="150px"/></center>-->
+                </div>
+            </a>
+            <div id="menu1">
+                <div id="myjquerymenu" class="jquerycssmenu">
+                    <ul>
+                        <li><a href="http://lra.gov.ph/index.php?page=about_us_history" target="_top">ABOUT US</a>
+                            <ul style="top: 25px; display: none; visibility: visible;">
+                                <li><a href="http://lra.gov.ph/index.php?page=about_us_history" target="_top">History</a></li>
+                                <li><a href="http://lra.gov.ph/index.php?page=about_us_mission" target="_top">Mission</a></li>
+                                <li><a href="http://lra.gov.ph/index.php?page=about_us_mission" target="_top">Vision</a></li>
+                                <li><a href="http://lra.gov.ph/index.php?page=about_us_mission" target="_top">Mandate</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="http://lra.gov.ph/index.php?page=ltcp_project_background" target="_top">LTCP</a>
+                            <ul style="top: 25px; display: none; visibility: visible;">
+                                <li><a href="http://lra.gov.ph/index.php?page=ltcp_project_background" target="_top">Background</a></li>
+                                <li><a href="http://lra.gov.ph/index.php?page=ltcp_project_objectives" target="_top">Project Objectives</a></li>
+                                <li><a href="http://lra.gov.ph/index.php?page=rd_gallery" target="_top">LTCP Updates</a>
+                                    <ul style="top: 0px; display: none; visibility: visible;">
+                                        <li><a href="http://lra.gov.ph/index.php?page=rd_gallery" target="_top">Construction and Renovation
+                                            of RDs</a></li>
+                                        <li><a href="http://lra.gov.ph/index.php?page=automated_rds" target="_top">Automated RDs</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a href="http://lra.gov.ph/index.php?page=org_structure" target="_top">OUR PRESENCE</a>
+                            <ul style="top: 25px; display: none; visibility: visible;">
+                                <li><a href="http://lra.gov.ph/index.php?page=org_structure" target="_top">Organizational Structure</a></li>
+                                <li><a href="http://lra.gov.ph/index.php?page=the_top_management" target="_top">The Top Management</a></li>
+                                <li><a href="http://lra.gov.ph/index.php?page=registry_of_deeds" target="_top">Field Offices</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="http://lra.gov.ph/index.php?page=plans_and_programs" target="_top">PLANS AND PROGRAMS</a></li>
+                        <li><a href="http://lra.gov.ph/index.php?page=gallery" target="_top">GALLERY</a> </li>
+                        <li><a href="http://lra.gov.ph/index.php?page=public_services" target="_top">SERVICES</a>
+                            <ul style="top: 25px; display: none; visibility: visible;">
+                                <li><a href="http://lra.gov.ph/index.php?page=public_services" target="_top">Public Services</a></li>
+                                <li><a href="http://lra.gov.ph/index.php?page=bidding_services" target="_top">Bidding Services</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="http://lra.gov.ph/index.php?page=lra_fees" target="_top">FEES</a>
+                            <ul style="top: 25px; display: none; visibility: visible;">
+                                <li><a href="http://lra.gov.ph/index.php?page=lra_fees" target="_top">LRA Fees</a></li>
+                                <li><a href="http://lra.gov.ph/index.php?page=it_fees" target="_top">I.T. Service Fees</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="http://lra.gov.ph/index.php?page=directory" target="_top">CONTACT US</a>
+                            <ul style="top: 25px; display: none; visibility: visible;">
+                                <li><a href="http://lra.gov.ph/index.php?page=central_office_directory" target="_top">LRA Central
+                                    Office Directory</a></li>
+                                <li><a href="http://lra.gov.ph/index.php?page=directory" target="_top">RD Directory</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <div style="clear: both;">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="h_div">
+        </div>
+        <div id="content">
+            <div id="content_right_col">
+                <div id="side-box">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                    <br /><br />
+                </div>
+            </div>
+            <div style="clear: both; height: 46px;">
+                <br />
+            </div>
+            <br />
+            <br />
+            <div style="clear: both; height: 46px;">
+                <br />
+            </div>
+            <div style="clear: both; height: 46px">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <br /><br /><br />
+        <div id="footer">
+            <a href="http://lra.gov.ph/index.php" target="_top">Home</a> | <a href="http://lra.gov.ph/about_us.html" target="_top">
+                About Us</a> | <a href="http://lra.gov.ph/faqs.html" target="_top">FAQs</a> | <a href="http://lra.gov.ph/directory.html" target="_top">
+                    Contact Us</a>
+        </div>
+        <table width="100%">
+            <tr>
+                <td rowspan="2" align="left" class="style1" width="20%">
+                    Best Viewed using:<br />
+                    <img src="images/ie.jpg" alt="" title="" border="0" />
+                    Internet Explorer
+                </td>
+                <td>
+                    <div id="footer2">
+                        <i><b>Copyright(c) 2011 Land Registration Authority</b></i>
+                    </div>
+                </td>
+                <td rowspan="2" width="20%">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style="padding-top: 2px; text-align: center;">
+                        <i>
+                            <!-- Start of StatCounter Code -->
+
+                            <script type="text/javascript">
+                                var sc_project = 6182623;
+                                var sc_invisible = 0;
+                                var sc_security = "f8125206";
+                            </script>
+
+                            <script type="text/javascript" src="JS/counter_xhtml.js"></script>
+
+                            <span class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"
+                                target="_blank">
+                                <%--<img src="LRA_Images/t.png" alt="StatCounter - Free Web Tracker and Counter" border="0">--%></a></span>
+                            <noscript>
+                                <div class="statcounter">
+                                    <a title="custom counter" class="statcounter" href="http://www.statcounter.com/free_hit_counter.html">
+                                        <img class="statcounter" src="http://c.statcounter.com/6182623/0/f8125206/0/" alt="custom counter" /></a></div>
+                            </noscript>
+                            <!-- End of StatCounter Code -->
+                        </i>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

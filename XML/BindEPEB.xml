@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <EPEB_Type>CCV</EPEB_Type>
+    <EPEB_Type_Desc>Certified True Copy,Certification,Verification (CCV)</EPEB_Type_Desc>
+  </Table>
+  <Table>
+    <EPEB_Type>Chattel Mortgage</EPEB_Type>
+    <EPEB_Type_Desc>Chattel Mortgage (CM_1508)</EPEB_Type_Desc>
+  </Table>
+  <Table>
+    <EPEB_Type>Personal Properties</EPEB_Type>
+    <EPEB_Type_Desc>Personal Properties (PP)</EPEB_Type_Desc>
+  </Table>
+  <Table>
+    <EPEB_Type>Registered Land</EPEB_Type>
+    <EPEB_Type_Desc>Registered Land (RL_496)</EPEB_Type_Desc>
+  </Table>
+  <Table>
+    <EPEB_Type>Unregistered Land</EPEB_Type>
+    <EPEB_Type_Desc>Unregistered Land (UL_3344)</EPEB_Type_Desc>
+  </Table>
+  <Table>
+    <EPEB_Type>CARP Book</EPEB_Type>
+    <EPEB_Type_Desc>Comprehensive Agrarian Reform Program (CARP)</EPEB_Type_Desc>
+  </Table>
+</NewDataSet>

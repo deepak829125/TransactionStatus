@@ -1,0 +1,463 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+    <Table>
+        <RoD_ID>000</RoD_ID>
+        <RoD_Name>Central Office</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>001</RoD_ID>
+        <RoD_Name>Caloocan City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>002</RoD_ID>
+        <RoD_Name>City of Manila</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>003</RoD_ID>
+        <RoD_Name>Pasay City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>004</RoD_ID>
+        <RoD_Name>Quezon City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>005</RoD_ID>
+        <RoD_Name>Las Pinas City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>006</RoD_ID>
+        <RoD_Name>Makati city</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>008</RoD_ID>
+        <RoD_Name>Mandaluyong City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>009</RoD_ID>
+        <RoD_Name>Marikina</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>010</RoD_ID>
+        <RoD_Name>Parañaque City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>011</RoD_ID>
+        <RoD_Name>Pasig</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>012</RoD_ID>
+        <RoD_Name>San Juan</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>015</RoD_ID>
+        <RoD_Name>Bangued, Abra</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>016</RoD_ID>
+        <RoD_Name>La Trinidad, Benguet</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>018</RoD_ID>
+        <RoD_Name>Baguio City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>019</RoD_ID>
+        <RoD_Name>Lamut, ifugao</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>020</RoD_ID>
+        <RoD_Name>Tabuk, Kalinga-Apayao</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>021</RoD_ID>
+        <RoD_Name>Laoag City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>022</RoD_ID>
+        <RoD_Name>Laoag, Ilocos Norte</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>023</RoD_ID>
+        <RoD_Name>Province of Ilocos Norte, Batac Branch</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>024</RoD_ID>
+        <RoD_Name>Vigan, Ilocos Sur</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>025</RoD_ID>
+        <RoD_Name>San Fernando, La Union</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>026</RoD_ID>
+        <RoD_Name>Lingayen, Pangasinan</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>027</RoD_ID>
+        <RoD_Name>Province of Pangasinan, Alaminos Branch</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>028</RoD_ID>
+        <RoD_Name>Pangasinan, Tayug Branch</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>032</RoD_ID>
+        <RoD_Name>Tuguegarao, Cagayan</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>034</RoD_ID>
+        <RoD_Name>Cagayan, Sanchez Mira Branch</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>036</RoD_ID>
+        <RoD_Name>Province of Nueva Vizcaya</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>038</RoD_ID>
+        <RoD_Name>Balanga, Bataan</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>039</RoD_ID>
+        <RoD_Name>Province of Bulacan (Guiguinto)</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>040</RoD_ID>
+        <RoD_Name>Province of Bulacan, Meycauayan Branch</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>041</RoD_ID>
+        <RoD_Name>Province of Nueva Ecija</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>042</RoD_ID>
+        <RoD_Name>San Fernando, Pampanga</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>043</RoD_ID>
+        <RoD_Name>Province of Tarlac</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>044</RoD_ID>
+        <RoD_Name>Iba, Zambales</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>045</RoD_ID>
+        <RoD_Name>Angeles City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>046</RoD_ID>
+        <RoD_Name>Cabanatuan City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>047</RoD_ID>
+        <RoD_Name>Olongapo City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>048</RoD_ID>
+        <RoD_Name>San Jose City, Nueva Ecija</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>049</RoD_ID>
+        <RoD_Name>Palayan City, Nueva Ecija</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>050</RoD_ID>
+        <RoD_Name>Province of Nueva Ecija, Talavera Branch</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>051</RoD_ID>
+        <RoD_Name>Province of Aurora</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>052</RoD_ID>
+        <RoD_Name>Batangas City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>055</RoD_ID>
+        <RoD_Name>Province of Batangas, Nasugbu Branch</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>057</RoD_ID>
+        <RoD_Name>Province of Cavite</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>058</RoD_ID>
+        <RoD_Name>Sta. Cruz, Laguna</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>060</RoD_ID>
+        <RoD_Name>Province of Laguna,Calamba Branch</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>061</RoD_ID>
+        <RoD_Name>Boac, Marinduque</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>062</RoD_ID>
+        <RoD_Name>Mamburao, Mindoro Occidental</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>063</RoD_ID>
+        <RoD_Name>Mindoro Occidental, San Jose</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>064</RoD_ID>
+        <RoD_Name>Calapan, Mindoro Oriental</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>065</RoD_ID>
+        <RoD_Name>Province of Palawan</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>066</RoD_ID>
+        <RoD_Name>Lucena, Quezon</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>067</RoD_ID>
+        <RoD_Name>Quezon, Infanta Branch</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>068</RoD_ID>
+        <RoD_Name>Province of Rizal</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>069</RoD_ID>
+        <RoD_Name>Rizal, Morong Branch</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>070</RoD_ID>
+        <RoD_Name>Romblon, Romblon</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>072</RoD_ID>
+        <RoD_Name>Lipa City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>075</RoD_ID>
+        <RoD_Name>San Pablo City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>076</RoD_ID>
+        <RoD_Name>Tagaytay City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>077</RoD_ID>
+        <RoD_Name>Trece Martirez City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>079</RoD_ID>
+        <RoD_Name>Province of Camarines Norte</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>080</RoD_ID>
+        <RoD_Name>Province of Camarines Sur</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>082</RoD_ID>
+        <RoD_Name>Masbate, Masbate</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>083</RoD_ID>
+        <RoD_Name>Sorsogon, Sorsogon</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>086</RoD_ID>
+        <RoD_Name>Naga City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>087</RoD_ID>
+        <RoD_Name>Province of Aklan</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>089</RoD_ID>
+        <RoD_Name>Roxas, Capiz</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>090</RoD_ID>
+        <RoD_Name>Iloilo, Iloilo</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>091</RoD_ID>
+        <RoD_Name>Province of Negros Occidental</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>092</RoD_ID>
+        <RoD_Name>Bacolod City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>093</RoD_ID>
+        <RoD_Name>Bago City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>095</RoD_ID>
+        <RoD_Name>Iloilo City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>096</RoD_ID>
+        <RoD_Name>La Carlota City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>097</RoD_ID>
+        <RoD_Name>Roxas City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>098</RoD_ID>
+        <RoD_Name>San Carlos City (Negros)</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>101</RoD_ID>
+        <RoD_Name>Province of Bohol</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>102</RoD_ID>
+        <RoD_Name>Cebu, Cebu</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>103</RoD_ID>
+        <RoD_Name>Province of Negros Oriental</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>105</RoD_ID>
+        <RoD_Name>Bais City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>107</RoD_ID>
+        <RoD_Name>Cebu City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>108</RoD_ID>
+        <RoD_Name>Danao City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>109</RoD_ID>
+        <RoD_Name>Dumaguete City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>110</RoD_ID>
+        <RoD_Name>Lapu-Lapu City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>112</RoD_ID>
+        <RoD_Name>Tagbilaran City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>113</RoD_ID>
+        <RoD_Name>Toledo City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>114</RoD_ID>
+        <RoD_Name>Borongan, Eastern Samar</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>116</RoD_ID>
+        <RoD_Name>Catarman, Northern Samar</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>117</RoD_ID>
+        <RoD_Name>Maasin, Southern Leyte</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>118</RoD_ID>
+        <RoD_Name>Catbalogan, Western Samar</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>121</RoD_ID>
+        <RoD_Name>Ormoc City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>122</RoD_ID>
+        <RoD_Name>Tacloban City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>129</RoD_ID>
+        <RoD_Name>Zamboanga City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>134</RoD_ID>
+        <RoD_Name>Province of Camiguin</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>136</RoD_ID>
+        <RoD_Name>Misamis Oriental</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>137</RoD_ID>
+        <RoD_Name>Cagayan de Oro City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>140</RoD_ID>
+        <RoD_Name>Ozamis City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>141</RoD_ID>
+        <RoD_Name>Tangub City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>142</RoD_ID>
+        <RoD_Name>Province of Davao del Norte</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>144</RoD_ID>
+        <RoD_Name>Digos, Davao del Sur</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>146</RoD_ID>
+        <RoD_Name>Davao City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>147</RoD_ID>
+        <RoD_Name>General Santos City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>148</RoD_ID>
+        <RoD_Name>Alabel, Saranggani</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>152</RoD_ID>
+        <RoD_Name>Cotabato Province</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>153</RoD_ID>
+        <RoD_Name>Isulan, Sultan Kudarat</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>155</RoD_ID>
+        <RoD_Name>Iligan City</RoD_Name>
+    </Table>
+	<Table>
+		<RoD_ID>156</RoD_ID>
+		<RoD_Name>Marawi City, Lanao del Sur</RoD_Name>
+	</Table>
+    <Table>
+        <RoD_ID>160</RoD_ID>
+        <RoD_Name>Province of Surigao Del Norte</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>161</RoD_ID>
+        <RoD_Name>Tandag, Surigao del Sur</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>162</RoD_ID>
+        <RoD_Name>Surigao City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>164</RoD_ID>
+        <RoD_Name>Taguig City</RoD_Name>
+    </Table>
+    <Table>
+        <RoD_ID>501</RoD_ID>
+        <RoD_Name>Central Office Kiosk</RoD_Name>
+    </Table>
+	<Table>
+		<RoD_ID>150</RoD_ID>
+		<RoD_Name>Province of Lanao del Sur</RoD_Name>
+	</Table>
+	<Table>
+		<RoD_ID>135</RoD_ID>
+		<RoD_Name>Province of Misamis Occidental</RoD_Name>
+	</Table>
+	<Table>
+		<RoD_ID>139</RoD_ID>
+		<RoD_Name>Oroquieta City</RoD_Name>
+	</Table>
+</NewDataSet>

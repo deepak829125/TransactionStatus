@@ -1,0 +1,284 @@
+body {
+	font-family: Arial;
+	font-size: 12.5;
+	text-align: center;
+	color: #4a4a4a;
+	margin: 0px;
+}
+
+table {
+	font-family: Arial;
+	font-size: 12.5;
+	color: #4a4a4a;
+}
+
+#main {
+	margin: 0 auto;
+	text-align: left;
+	width: 800px;
+}
+
+#logo-title {
+	font-size: 16px;
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+#search {
+	float: right;
+}
+
+#menu {
+	background-color: #142274;	
+	border-bottom: 1px solid #142274;
+}
+
+#menu a {
+	color: #ffffff;
+	font-weight: bold;
+}
+
+#menu a:hover {
+	color: #142274;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #e59c00;
+}
+
+#menu-item {
+	padding: 10px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#content {
+	border-top: 0;
+	padding-top: 3px;
+	height: 360px;
+}
+
+#content_left_col {
+	padding: 5px;
+	width: 495px;
+	float: left;
+	height: 665px;
+	overflow: auto;
+}
+
+#content_right_col {
+	float: left;
+	width: 428px;
+	padding-left: 15px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#content_left_col {
+	text-align: justify;
+}
+
+#content_left_col2 {
+	padding: 5px;
+	/*width: 595px;*/
+	/*float: left;*/
+}
+
+#content_right_col2 {
+	padding: 5px;
+	float: left;
+	width: 270px;
+	padding-left: 15px;
+}
+
+#content_title {
+	font-size: 16px;
+	font-weight: bold;
+	border-bottom: 2px solid gray;
+	padding-bottom: 2px;
+}
+
+#content_title2 {
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+a#read_more {
+	color: #505050;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover#read_more {
+	color: #ffa801;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#news_title_link {
+	color: #e39d01;
+	font-weight: bold;
+}
+
+a {
+	color: #e39d01;
+	font-weight: normal;
+	font-size:smaller;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #142274;
+	font-weight: normal;
+	font-size:smaller;
+	text-decoration: underline;
+}
+
+#footer {
+	color: #ffffff;
+	text-align: center;
+	background-color: #142274;
+	padding: 7px;
+	margin-top: 5px;
+	background-image: url('../images/linksbg2.png');
+	background-repeat: repeat-x;
+}
+
+#footer a {
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#footer a:hover {
+	color: #ffa801;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#footer2 
+{
+	font-size: 12px;
+	text-align: center;
+	padding: 5px;
+}
+
+#footer2 a {
+	color: #e39d01;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#footer2 a:hover {
+	color: #505050;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#news_subtitle {
+	color: gray;
+	font-size: 11px;
+}
+
+#h_div {
+	margin-top: 1px;
+	margin-bottom: 2px;
+	border-top: 1px solid gray;
+}
+
+#submenu {
+	margin-top: none;
+}
+
+#small_title {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+#top_menu {
+	font-size: 11.5px;
+	padding: 7px;
+	height: 14px;
+	border: 1px solid #cccccc;
+	background-image: url('../images/top_menu_bg.jpg');
+	background-repeat: repeat-x;
+}
+
+#menu1 {
+	background-image: url('../images/linksbg2.png');
+	background-repeat: repeat-x;
+}
+
+#date_today {
+	float: left;
+}
+
+#top_menu_right {
+	float: right;
+}
+
+#top_menu_right a {
+	font-weight: bold;
+	color: #142274;
+}
+
+#top_menu_right a:hover {
+	color: #ffa801;
+	font-weight: bold;
+}
+
+#map {
+	float: left;
+}
+
+#directory {
+	float: left;
+	margin-left: 10px;
+	width: 310px;
+}
+
+#table1 th {
+	border-bottom: 2px solid #142169;
+}
+
+#table1 td {
+	border-bottom: 1px solid #979797;
+}
+
+#table2 {
+	width:480px;
+	text-align:left;
+	border-collapse:collapse;
+}
+
+#table2 th {
+	background:#b9c9fe;
+	border-top:4px solid #aabcfe;
+	border-bottom:1px solid #fff;
+	color:#039;
+	padding:8px;
+}
+
+#table2 td {
+	background:#e8edff;
+	border-bottom:1px solid #fff;
+	color:#669;
+	border-top:1px solid transparent;
+	padding:8px;
+}
+
+#table2 tr:hover td {
+	background:#d0dafd;
+	color:#339;
+}
+
+#side-box {
+	font-weight: normal;
+	font-size: 12px;
+	color: #ffffff;
+	width: 429px;
+	height: 179px;
+	background-image: url('../images/side-box.gif');
+	background-repeat: no-repeat;
+}
